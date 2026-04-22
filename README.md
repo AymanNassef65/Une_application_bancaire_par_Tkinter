@@ -21,3 +21,8 @@ Le projet démontre l'utilisation de :
    ```bash
    git clone [https://github.com/AymanNassef65/Une_application_bancaire_par_Tkinter.git](https://github.com/AymanNassef65/Une_application_bancaire_par_Tkinter.git)
 **L'explication détaillée du fonctionnement du projet dans le fichier main.py**
+
+## L'interface de ce projet:
+<p align="center">
+  <img src="screenshots/main_interface.png" width="80%" alt="Interface principale">
+</p>
