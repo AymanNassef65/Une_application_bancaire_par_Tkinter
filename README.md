@@ -20,3 +20,4 @@ Le projet démontre l'utilisation de :
 1. Clonez le dépôt :
    ```bash
    git clone [https://github.com/AymanNassef65/Une_application_bancaire_par_Tkinter.git](https://github.com/AymanNassef65/Une_application_bancaire_par_Tkinter.git)
+**L'explication détaillée du fonctionnement du projet dans le fichier main.py**
