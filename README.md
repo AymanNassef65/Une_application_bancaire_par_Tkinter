@@ -24,5 +24,5 @@ Le projet démontre l'utilisation de :
 
 ## L'interface de ce projet:
 <p align="center">
-  <img src="screenshots/main_interface.png" width="80%" alt="Interface principale">
+  <img src="screenshots/main_interface_bank.png" width="80%" alt="Interface principale">
 </p>
